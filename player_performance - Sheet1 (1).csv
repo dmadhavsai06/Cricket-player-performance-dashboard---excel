@@ -1,0 +1,154 @@
+player,opposition,location,venue,role,innings,pitch,format,performance
+rohit,wi,overseas,lauderhill,batsman,2,batting,t20,bad
+virat,wi,overseas,lauderhill,batsman,2,batting,t20,bad
+rohit,wi,overseas,lauderhill,batsman,1,batting,t20,good
+virat,wi,overseas,lauderhill,batsman,1,batting,t20,bad
+virat,wi,overseas,providence,batsman,2,bowling,t20,good
+rohit,wi,overseas,port of spain,batsman,1,balanced,odi,bad
+virat,wi,overseas,port of spain,batsman,1,balanced,odi,excellent
+rohit,wi,overseas,port of spain,batsman,2,balanced,odi,bad
+virat,wi,overseas,port of spain,batsman,2,balanced,odi,excellent
+rohit,sa,home,mohali,batsman,2,bowling,t20,bad
+virat,sa,home,mohali,batsman,2,bowling,t20,good
+rohit,sa,home,bengaluru,batsman,1,batting,t20,bad
+virat,sa,home,bengaluru,batsman,1,batting,t20,bad
+rohit,ban,home,delhi,batsman,1,balanced,t20,bad
+rohit,ban,home,rajkot,batsman,2,batting,t20,excellent
+rohit,ban,home,nagpur,batsman,1,bowling,t20,bad
+rohit,wi,home,hyderabad,batsman,2,balanced,t20,bad
+virat,wi,home,hyderabad,batsman,2,balanced,t20,excellent
+rohit,wi,home,thiruvananthapuram,batsman,1,batting,t20,bad
+virat,wi,home,thiruvananthapuram,batsman,1,batting,t20,bad
+rohit,wi,home,mumbai,batsman,1,batting,t20,excellent
+virat,wi,home,mumbai,batsman,1,batting,t20,excellent
+rohit,wi,home,chennai,batsman,1,bowling,odi,bad
+virat,wi,home,chennai,batsman,1,bowling,odi,bad
+rohit,wi,home,visakapatanam,batsman,1,batting,odi,excellent
+virat,wi,home,visakapatanam,batsman,1,batting,odi,bad
+rohit,wi,home,cuttak,batsman,2,bowling,odi,good
+virat,wi,home,cuttak,batsman,2,bowling,odi,good
+virat,sl,home,indore,batsman,2,batting,t20,good
+virat,sl,home,pune,batsman,1,batting,t20,good
+rohit,aus,home,mumbai,batsman,1,batting,odi,bad
+virat,aus,home,mumbai,batsman,1,batting,odi,bad
+rohit,aus,home,rajkot,batsman,1,batting,odi,good
+virat,aus,home,rajkot,batsman,1,batting,odi,good
+rohit,aus,home,bengaluru,batsman,2,batting,odi,excellent
+virat,aus,home,bengaluru,batsman,2,batting,odi,good
+rohit,nz,overseas,auckland,batsman,2,bowling,t20,bad
+virat,nz,overseas,auckland,batsman,2,bowling,t20,good
+rohit,nz,overseas,auckland,batsman,2,bowling,t20,bad
+virat,nz,overseas,auckland,batsman,2,bowling,t20,bad
+rohit,nz,overseas,hamilton,batsman,1,batting,t20,excellent
+virat,nz,overseas,hamilton,batsman,1,batting,t20,good
+virat,nz,overseas,wellington,batsman,1,batting,t20,bad
+rohit,nz,overseas,mount munganui,batsman,1,batting,t20,excellent
+virat,nz,overseas,hamilton,batsman,1,batting,odi,good
+virat,nz,overseas,auckland,batsman,2,bowling,odi,bad
+virat,nz,overseas,mount munganui,batsman,1,batting,odi,bad
+virat,eng,home,ahmedabad,batsman,1,batting,t20,bad
+virat,eng,home,ahmedabad,batsman,2,batting,t20,excellent
+virat,eng,home,ahmedabad,batsman,1,batting,t20,excellent
+virat,eng,home,ahmedabad,batsman,1,batting,t20,bad
+rohit,eng,home,ahmedabad,batsman,1,batting,t20,bad
+virat,eng,home,ahmedabad,batsman,1,batting,t20,excellent
+rohit,eng,home,ahmedabad,batsman,1,batting,t20,excellent
+virat,eng,home,pune,batsman,1,balanced,odi,good
+rohit,eng,home,pune,batsman,1,balanced,odi,bad
+virat,eng,home,pune,batsman,1,balanced,odi,good
+rohit,eng,home,pune,batsman,1,balanced,odi,bad
+virat,eng,home,pune,batsman,1,balanced,odi,bad
+rohit,eng,home,pune,batsman,1,balanced,odi,bad
+virat,pak,overseas,dubai,batsman,1,balanced,t20,good
+rohit,pak,overseas,dubai,batsman,1,balanced,t20,bad
+virat,nz,overseas,dubai,batsman,1,balanced,t20,bad
+rohit,nz,overseas,dubai,batsman,1,balanced,t20,bad
+rohit,afg,overseas,abu dhabi,batsman,1,batting,t20,excellent
+rohit,sco,overseas,dubai,batsman,2,balanced,t20,good
+rohit,nam,overseas,dubai,batsman,2,balanced,t20,good
+rohit,nz,home,indore,batsman,2,batting,t20,good
+rohit,nz,home,ranchi,batsman,2,balanced,t20,good
+rohit,nz,home,kolkata,batsman,1,batting,t20,excellent
+virat,sa,overseas,paarl,batsman,2,balanced,odi,good
+virat,sa,overseas,paarl,batsman,1,balanced,odi,bad
+virat,sa,overseas,cape town,batsman,2,bowling,odi,good
+rohit,wi,home,ahmedabad,batsman,2,batting,odi,good
+virat,wi,home,ahmedabad,batsman,2,batting,odi,bad
+rohit,wi,home,ahmedabad,batsman,1,batting,odi,bad
+virat,wi,home,ahmedabad,batsman,1,batting,odi,bad
+rohit,wi,home,ahmedabad,batsman,1,batting,odi,bad
+virat,wi,home,ahmedabad,batsman,1,batting,odi,bad
+rohit,wi,home,kolkata,batsman,2,batting,t20,excellent
+virat,wi,home,kolkata,batsman,2,batting,t20,bad
+rohit,wi,home,kolkata,batsman,1,batting,t20,bad
+virat,wi,home,kolkata,batsman,1,batting,t20,good
+rohit,wi,home,kolkata,batsman,1,batting,t20,bad
+rohit,sl,home,lucknow,batsman,1,bowling,t20,good
+rohit,sl,home,dharamshala,batsman,2,bowling,t20,bad
+rohit,sl,home,dharamshala,batsman,2,bowling,t20,bad
+rohit,eng,overseas,southampton ,batsman,1,batting,t20,bad
+rohit,eng,overseas,edgbaston,batsman,1,batting,t20,good
+virat,eng,overseas,edgbaston,batsman,1,batting,t20,bad
+rohit,eng,overseas,trent bridge,batsman,2,batting,t20,bad
+virat,eng,overseas,trent bridge,batsman,2,batting,t20,bad
+rohit,eng,overseas,the oval,batsman,2,batting,odi,excellent
+rohit,eng,overseas,lords,batsman,2,bowling,odi,bad
+virat,eng,overseas,lords,batsman,2,bowling,odi,bad
+rohit,eng,overseas,old trafford,batsman,2,batting,odi,bad
+virat,eng,overseas,old trafford,batsman,2,batting,odi,bad
+rohit,wi,overseas,brian lara,batsman,1,balanced,t20,good
+rohit,wi,overseas,warner park,batsman,1,batting,t20,bad
+rohit,wi,overseas,warner park,batsman,2,batting,t20,bad
+rohit,wi,overseas,central broward regional park,batsman,1,batting,t20,good
+rohit,pak,overseas,dubai,batsman,2,balanced,t20,bad
+virat,pak,overseas,dubai,batsman,2,balanced,t20,good
+rohit,hk,overseas,dubai,batsman,1,balanced,t20,good
+virat,hk,overseas,dubai,batsman,1,balanced,t20,good
+rohit,pak,overseas,dubai,batsman,1,balanced,t20,good
+virat,pak,overseas,dubai,batsman,1,balanced,t20,excellent
+rohit,sl,overseas,dubai,batsman,1,balanced,t20,excellent
+virat,sl,overseas,dubai,batsman,1,balanced,t20,good
+virat,afg,overseas,dubai,batsman,1,balanced,t20,excellent
+rohit,aus,home,mohali,batsman,1,bowling,t20,bad
+virat,aus,home,mohali,batsman,1,bowling,t20,bad
+rohit,aus,home,vca stadium,batsman,2,bowling,t20,excellent
+virat,aus,home,vca stadium,batsman,2,bowling,t20,good
+rohit,aus,home,hyderabad,batsman,2,balanced,t20,bad
+virat,aus,home,hyderabad,batsman,2,balanced,t20,excellent
+rohit,sa,home,thiruvananthapuram,batsman,2,batting,t20,bad
+virat,sa,home,thiruvananthapuram,batsman,2,batting,t20,bad
+rohit,sa,home,guwahati,batsman,1,batting,t20,good
+virat,sa,home,guwahati,batsman,1,batting,t20,excellent
+rohit,sa,home,indore,batsman,2,batting,t20,good
+rohit,pak,overseas,melbourne,batsman,2,balanced,t20,bad
+virat,pak,overseas,melbourne,batsman,2,balanced,t20,excellent
+rohit,ned,overseas,sydney,batsman,1,batting,t20,good
+virat,ned,overseas,sydney,batsman,1,batting,t20,good
+rohit,sa,overseas,perth,batsman,1,batting,t20,bad
+virat,sa,overseas,perth,batsman,1,batting,t20,bad
+rohit,ban,overseas,adelaide,batsman,1,batting,t20,bad
+virat,ban,overseas,adelaide,batsman,1,batting,t20,good
+rohit,zim,overseas,melbourne,batsman,1,balanced,t20,bad
+virat,zim,overseas,melbourne,batsman,1,balanced,t20,bad
+rohit,eng,overseas,adelaide,batsman,1,batting,t20,bad
+virat,eng,overseas,adelaide,batsman,1,batting,t20,good
+rohit,ban,overseas,dhaka,batsman,1,bowling,odi,bad
+virat,ban,overseas,dhaka,batsman,1,bowling,odi,bad
+rohit,ban,overseas,dhaka,batsman,2,bowling,odi,excellent
+virat,ban,overseas,dhaka,batsman,2,bowling,odi,bad
+virat,ban,overseas,chittagong,batsman,1,bowling,odi,excellent
+rohit,sl,home,guwahati,batsman,1,batting,odi,excellent
+virat,sl,home,guwahati,batsman,1,batting,odi,excellent
+rohit,sl,home,kolkata,batsman,2,batting,odi,bad
+virat,sl,home,kolkata,batsman,2,batting,odi,bad
+rohit,sl,home,lucknow,batsman,1,bowling,odi,good
+virat,sl,home,lucknow,batsman,1,bowling,odi,excellent
+rohit,nz,home,hyderabad,batsman,1,balanced,odi,bad
+virat,nz,home,hyderabad,batsman,1,balanced,odi,bad
+rohit,nz,home,raipur,batsman,2,batting,odi,good
+virat,nz,home,raipur,batsman,2,batting,odi,bad
+virat,aus,home,mumbai,batsman,2,batting,odi,bad
+rohit,aus,home,visakhapatanam,batsman,1,batting,odi,bad
+virat,aus,home,visakhapatanam,batsman,1,batting,odi,bad
+rohit,aus,home,chennai,batsman,2,bowling,odi,good
+virat,aus,home,chennai,batsman,2,bowling,odi,good
